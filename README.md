@@ -1,4 +1,4 @@
-# Projetos com Htlm, JavaScript e Css
+# Projetos com Html, JavaScript e Css
 Este repositório foi criado com a intenção de guardar projetos do Bootcamp da [Dio](https://www.dio.me/) sobre desenvolvimento de jogos.
 
 ## Mini projeto de site com link
