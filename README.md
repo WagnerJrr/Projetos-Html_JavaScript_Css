@@ -1,5 +1,5 @@
 # Projetos de estudo com Html, JavaScript e Css 📋🗂
-Este repositório foi criado com a intenção de guardar projetos desenvolvidos durante o do Bootcamp da [Dio](https://www.dio.me/) sobre desenvolvimento de jogos.
+Este repositório foi criado com a intenção de guardar projetos desenvolvidos durante o Bootcamp da [Dio](https://www.dio.me/) sobre desenvolvimento de jogos.
 
 ## Projetos em HTML 
 <ul>
