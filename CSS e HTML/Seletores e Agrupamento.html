@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trilha de CSS</title>
+    <style>
+        ul {
+            background: rgb(151, 151, 255);
+        }
+        .Título-principal {
+            color: rgb(255, 255, 255);
+            background: rgb(0, 0, 255);
+        }
+        li {
+            background: rgb(199, 199, 255);
+        }
+        .seletor-de-classe {
+            background: rgb(199, 199, 255);
+        }
+        #seletor-de-id {
+            background: rgb(199, 199, 255);
+        }
+        .seletores {
+            background: rgb(225, 225, 255);
+        }
+
+        p, div {
+            background: rgb(199, 199, 255)
+        }
+
+        .Agrupamento {
+            background: blue;
+            color: white;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="seletores">
+    <h1 class="Título-principal">Dio - Digital Innnovation One</h1>
+    <h2 class="Subtitulo-principal"><u>Seletores:</u> definem quais elementos serão aplicados no CSS</h2>
+    <ul>
+        
+        <li><Strong>Seletor por Tipo:</Strong> busca elementos através de uma tag HTML específica</li>
+        <li class="seletor-de-classe"><strong>Seletor de Classe(.):</strong> busca elementos através do atributo "class"</li>
+        <li id="seletor-de-id"><strong>Seletor de ID(#):</strong> busca elementos através do atributo ID</li>
+        <li><Strong>Seletor Universal(*):</Strong> Aplica um elemento padrão para todas as Tags</li>
+    
+    </ul>
+    </div>
+
+    <h1 class="Agrupamento">Agrupamento de seletores</h1>
+    <p>Podemos aplicar as mesmas regras CSS para vários seletores diferentes. 
+        Para isso, podemos separar os seletores utilizando uma vírgula (,)</p>
+    <div>Assim, não precisamos ficar copiando e colando os mesmo códigos para todos, 
+        nós podemos fazer um só bloco de CSS e reutilizar as mesmas regras!</div>
+
+    </ul>
+    
+</body>
+</html>
