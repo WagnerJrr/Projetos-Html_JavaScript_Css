@@ -10,6 +10,6 @@ Este repositório foi criado com a intenção de guardar projetos desenvolvidos 
 
 ## Projetos com CSS e HTML
 <ul>
-  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/blob/main/CSS%20e%20HTML/Seletores%20e%20Agrupamento.html">Seletores e Agrupamento</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Seletores%20e%20Agrupamento">Seletores e Agrupamento</li>
 
 
