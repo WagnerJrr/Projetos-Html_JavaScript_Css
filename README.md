@@ -11,5 +11,14 @@ Este repositório foi criado com a intenção de guardar projetos desenvolvidos 
 ## Projetos com CSS e HTML
 <ul>
   <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Seletores%20e%20Agrupamento">Seletores e Agrupamento</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Object-Fit">Object-fit</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Fundo%20dos%20Elementos">Fundo dos elementos</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Fontes">Fontes</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Bordas">Bordas</li>
+</ul>
+  
+  
+  
+  
 
 
