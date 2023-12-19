@@ -15,6 +15,8 @@ Este repositório foi criado com a intenção de guardar projetos desenvolvidos 
   <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Fundo%20dos%20Elementos">Fundo dos elementos</li>
   <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Fontes">Fontes</li>
   <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Bordas">Bordas</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Box-shadow">Box-shadow</li>
+  <li><a href="https://github.com/WagnerJrr/Projetos-Html_JavaScript_Css/tree/main/CSS%20e%20HTML/Overflow">Overflow</li>
 </ul>
   
   
