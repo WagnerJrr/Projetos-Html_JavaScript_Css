@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trilha de CSS</title>
+    <style>
+        .exemplo {
+            width: 200px;
+            height: 200px;
+            padding: 10px;
+            border: 3px solid purple;
+            background-color: orange;
+        }
+
+        #scroll {
+            overflow: scroll;
+        }
+        #hidden {
+            overflow: hidden;
+        }
+        #auto {
+            overflow: auto;
+        }
+
+    </style>
+</head>
+<body>
+ <h1>Propriedade <code>overflow</code></h1>
+ <p>Controla como o conteúdo deve ser exibido caso ultrapasse os limites do container</p>
+ 
+ <code>overflow: Scroll;</code>
+ <div id="scroll" class="exemplo">
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Maxime expedita, voluptatem, dolor rem, culpa eligendi assumenda iste reiciendis pariatur veritatis numquam blanditiis vitae quasi. 
+    Voluptatum impedit repellendus nobis vero soluta.</p>
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Maxime expedita, voluptatem, dolor rem, culpa eligendi assumenda iste reiciendis pariatur veritatis numquam blanditiis vitae quasi. 
+    Voluptatum impedit repellendus nobis vero soluta.</p>
+</div>
+
+<br><br>
+
+<code>overflow: Hidden;</code>
+<div id="hidden" class="exemplo">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+       Maxime expedita, voluptatem, dolor rem, culpa eligendi assumenda iste reiciendis pariatur veritatis numquam blanditiis vitae quasi. 
+       Voluptatum impedit repellendus nobis vero soluta.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+       Maxime expedita, voluptatem, dolor rem, culpa eligendi assumenda iste reiciendis pariatur veritatis numquam blanditiis vitae quasi. 
+       Voluptatum impedit repellendus nobis vero soluta.</p>
+   </div>
+   
+<br><br>
+
+<code>overflow: Auto;</code>
+<div id="auto" class="exemplo">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+       Maxime expedita, voluptatem, dolor rem, culpa eligendi assumenda iste reiciendis pariatur veritatis numquam blanditiis vitae quasi. 
+       Voluptatum impedit repellendus nobis vero soluta.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+       Maxime expedita, voluptatem, dolor rem, culpa eligendi assumenda iste reiciendis pariatur veritatis numquam blanditiis vitae quasi. 
+       Voluptatum impedit repellendus nobis vero soluta.</p>
+   </div>
+
+</body>
+</html>
